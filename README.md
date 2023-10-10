@@ -1,6 +1,4 @@
 # DL_beginer
-Some files about deep learning.
+Some files about deep learning and the good introducing book "Deep Learning from Scratch" of Seth Weidman.
 
-A good introducing book to DL is "Deep Learning from Scratch" of Seth Weidman.
-
-Some relative materials (word and python files) noted some of my experience in studying DL.
+The files (word and python ) noted some of my experience in studying DL.
